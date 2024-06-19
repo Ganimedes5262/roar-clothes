@@ -1,0 +1,45 @@
+@media (max-width:300px){
+
+.produtos{
+
+    background-color: #101010;
+    padding-top: 30%;
+
+}
+
+h2{
+
+    text-align: center;
+
+}
+
+}
+
+
+@media (min-width:301px) and (max-width: 720px) {
+
+
+    
+
+}
+
+
+@media (min-width:721px) and (max-width: 1200px) {
+
+
+
+
+}
+
+@media (min-width:1201px) and (max-width: 1487px) {
+
+
+
+
+}
+
+@media (min-width:1488px){
+
+
+
+}
