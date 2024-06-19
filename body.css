@@ -1,9 +1,9 @@
 @media (max-width:300px) {
 
     body {
-        background-color: #101010;
-        font-family: Arial, sans-serif;
-        background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+        background-color: #101010 !important;
+        font-family: Arial, sans-serif !important;
+        background-image: url("camisas1-.jpg");
         background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
         background-position: center;
     }
@@ -53,9 +53,9 @@
     @media (min-width:301px) and (max-width: 720px){
 
         body {
-            background-color: #101010;
-            font-family: Arial, sans-serif;
-            background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+            background-color: #101010 !important;
+            font-family: Arial, sans-serif !important;
+            background-image: url("camisas1-.jpg");
             background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
             background-position: center;
         }
@@ -105,9 +105,9 @@
 @media (min-width:721px) and (max-width:1200px){
 
     body {
-        background-color: #101010;
-        font-family: Arial, sans-serif;
-        background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+        background-color: #101010 !important;
+        font-family: Arial, sans-serif !important;
+        background-image: url("camisas1-.jpg");
         background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
         background-position: center;
     }
@@ -157,9 +157,9 @@
 
 
         body {
-            background-color: #101010;
-            font-family: Arial, sans-serif;
-            background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+            background-color: #101010 !important;
+            font-family: Arial, sans-serif !important;
+            background-image: url("camisas1-.jpg");
             background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
             background-position: center;
         }
@@ -211,9 +211,9 @@
         @media (min-width:1488px) {
 
             body {
-                background-color: #101010;
-                font-family: Arial, sans-serif;
-                background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+                background-color: #101010 !important;
+                font-family: Arial, sans-serif !important;
+                background-image: url("camisas1-.jpg");
                 background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
                 background-position: center;
             }
