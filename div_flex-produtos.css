@@ -48,28 +48,191 @@ width: 40% !important;
 
 @media (min-width:301px) and (max-width: 720px) {
 
+.container{
 
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 40px !important;
+    align-items: center !important;
+    padding-bottom: 40px;
+
+}
+
+.card{
+
+    display: flex;
+    flex-direction: row !important;
+    gap:20px;
+
+}
+
+.card-img-top{
+
+height: 50% !important;
+width: 40% !important;
+
+}
+
+.card-title{
+
+    font-size: 0.9em;
+
+}
+
+.card-text{
+
+    font-size:0.6em !important;
+
+}
+
+.btn{
+
+    --bs-btn-font-size:0.8em !important;
+
+}
     
-
 }
 
 
 @media (min-width:721px) and (max-width: 1200px) {
 
+.container{
 
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 40px !important;
+    align-items: center !important;
+    padding-bottom: 40px;
+
+}
+
+.card{
+
+    display: flex;
+    flex-direction: row !important;
+    gap:20px;
+
+}
+
+.card-img-top{
+
+height: 50% !important;
+width: 40% !important;
+
+}
+
+.card-title{
+
+    font-size: 0.9em;
+
+}
+
+.card-text{
+
+    font-size:0.6em !important;
+
+}
+
+.btn{
+
+    --bs-btn-font-size:0.8em !important;
+
+}
 
 
 }
 
 @media (min-width:1201px) and (max-width: 1487px) {
 
+.container{
 
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 40px !important;
+    align-items: center !important;
+    padding-bottom: 40px;
+
+}
+
+.card{
+
+    display: flex;
+    flex-direction: row !important;
+    gap:20px;
+
+}
+
+.card-img-top{
+
+height: 50% !important;
+width: 40% !important;
+
+}
+
+.card-title{
+
+    font-size: 0.9em;
+
+}
+
+.card-text{
+
+    font-size:0.6em !important;
+
+}
+
+.btn{
+
+    --bs-btn-font-size:0.8em !important;
+
+}
 
 
 }
 
 @media (min-width:1488px){
 
+.container{
 
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 40px !important;
+    align-items: center !important;
+    padding-bottom: 40px;
+
+}
+
+.card{
+
+    display: flex;
+    flex-direction: row !important;
+    gap:20px;
+
+}
+
+.card-img-top{
+
+height: 50% !important;
+width: 40% !important;
+
+}
+
+.card-title{
+
+    font-size: 0.9em;
+
+}
+
+.card-text{
+
+    font-size:0.6em !important;
+
+}
+
+.btn{
+
+    --bs-btn-font-size:0.8em !important;
+
+}
 
 }
