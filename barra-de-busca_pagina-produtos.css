@@ -179,8 +179,8 @@
     
         position: relative;
         display: flex;
-        height: 30px;
-        width: 180px;
+        height: 40px;
+        width: 315px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -189,8 +189,8 @@
     
     .lupa_search, .x_search {
     
-        height: 30px;
-        min-width: 20px;
+        height: auto;
+        min-width: 50px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -200,13 +200,13 @@
     
     .x_search i { 
         color: #d3b610;
-        font-size: 30px;
+        font-size: 45px;
     
     }
     
     .lupa_search i{
     
-        font-size: 15px;
+        font-size: 30px;
         color: #d3b610;
     
     }
@@ -214,10 +214,10 @@
     .input_search{
     
         position: absolute;
-        left: 25px;
+        left: 40px;
         width: calc(100%-120px);
-        height: 25px;
-        line-height: 25px;
+        height: 50px;
+        line-height: 50px;
     
     }
     
@@ -225,7 +225,7 @@
     
         border: 0;
         outline: 0;
-        font-size: 11px;
+        font-size: 16px;
     
     }
 
