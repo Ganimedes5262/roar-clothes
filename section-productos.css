@@ -18,7 +18,18 @@ h2{
 
 @media (min-width:301px) and (max-width: 720px) {
 
+.produtos{
 
+    background-color: #101010;
+    padding-top: 30%;
+
+}
+
+h2{
+
+    text-align: center;
+
+}
     
 
 }
@@ -26,20 +37,53 @@ h2{
 
 @media (min-width:721px) and (max-width: 1200px) {
 
+.produtos{
 
+    background-color: #101010;
+    padding-top: 30%;
+
+}
+
+h2{
+
+    text-align: center;
+
+}
 
 
 }
 
 @media (min-width:1201px) and (max-width: 1487px) {
 
+.produtos{
 
+    background-color: #101010;
+    padding-top: 30%;
+
+}
+
+h2{
+
+    text-align: center;
+
+}
 
 
 }
 
 @media (min-width:1488px){
 
+    .produtos{
 
+    background-color: #101010;
+    padding-top: 30%;
+
+}
+
+h2{
+
+    text-align: center;
+
+}
 
 }
