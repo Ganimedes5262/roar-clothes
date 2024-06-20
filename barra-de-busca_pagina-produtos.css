@@ -190,7 +190,7 @@
     .lupa_search, .x_search {
     
         height: auto;
-        min-width: 50px;
+        min-width: 20px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -214,10 +214,10 @@
     .input_search{
     
         position: absolute;
-        left: 40px;
+        left: 45px;
         width: calc(100%-120px);
-        height: 50px;
-        line-height: 50px;
+        height: 40px;
+        line-height: 40px;
     
     }
     
